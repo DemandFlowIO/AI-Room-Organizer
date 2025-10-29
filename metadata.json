@@ -1,0 +1,5 @@
+{
+  "name": "Room Organizer AI",
+  "description": "Upload photos of your rooms to get AI-powered organization and decluttering suggestions from Gemini. Chat with the AI to refine ideas and get inspired.",
+  "requestFramePermissions": []
+}
